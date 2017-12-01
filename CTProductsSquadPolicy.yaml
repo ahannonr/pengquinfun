@@ -1,0 +1,12 @@
+gitlab:
+  groupIds:
+    - 220
+  refreshrate: 10000
+
+slideshow:
+  youtube:    
+    - zVV4e6_Kc3g #Volcano
+    - -CpDQ6BT5mk #puppies!
+    - 9vlavTW0rn4 #bison
+    - GfgwU-pyOfg #africa
+  rate: 120000

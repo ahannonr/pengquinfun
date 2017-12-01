@@ -1,4 +1,8 @@
-gitlab:
+newrelic:
+  policy: CT Product Services Squad policy
+  refreshrate: 10000
+  
+ gitlab:
   groupIds:
     - 220
   refreshrate: 10000

@@ -1,11 +1,11 @@
 newrelic:
   policy: CT Product Services Squad policy
-  refreshrate: 10000
+  refreshRate: 10000
   
  gitlab:
   groupIds:
     - 220
-  refreshrate: 10000
+  refreshRate: 300000
 
 slideshow:
   youtube:    

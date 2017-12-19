@@ -1,3 +1,7 @@
+newrelic:
+  policy: CT Product Experience Squad policy
+  refreshRate: 10000
+
 gitlab:
   groupIds:
     - 277
@@ -5,8 +9,6 @@ gitlab:
 
 slideshow:
   youtube:    
-    - zVV4e6_Kc3g #Volcano
-    - -CpDQ6BT5mk #puppies!
-    - 9vlavTW0rn4 #bison
-    - GfgwU-pyOfg #africa
+    - BH5FnM_dVvE #puppies!
+    - DxY0jMJbk-8 #Actual Penquins
   rate: 120000

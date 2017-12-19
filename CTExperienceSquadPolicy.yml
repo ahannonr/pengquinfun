@@ -4,7 +4,7 @@ newrelic:
 
 gitlab:
   groupIds:
-    - 2777
+    - 277
   refreshRate: 300000
 
 slideshow:
